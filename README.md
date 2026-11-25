@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,24&height=180&section=header&text=Arjun%20Jayraj&fontSize=42&fontColor=fff&animation=fadeIn&desc=BCA%20(Cloud%20Computing)%20%7C%20Cloud%20%26%20Web%20Developer%20%7C%20MMA%20Athlete&descSize=18&descAlignY=68" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,24&height=180&section=header&text=Arjun%20Jayraj&fontSize=42&fontColor=fff&animation=fadeIn&desc=BCA%20(Cloud%20Computing)%20%7C%20Cloud%20and%20Web%20Developer%20%7C%20MMA%20Athlete&descSize=18&descAlignY=68" width="100%" />
 
   <p align="center">
     <a href="https://linkedin.com/in/arjun-jayraj"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
